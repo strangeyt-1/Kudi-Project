@@ -1,0 +1,52 @@
+.follow{
+    /* background-color: #1F39E0; */
+    background-color: black;
+    height: 60px;
+    display: flex;
+    color: white;
+  }
+  .icons{
+    margin-left: 1%;
+    position: relative;
+    top: 20px;
+    color: white;
+  }
+  .down{
+    display: flex;
+    margin-top: 10px;
+    /* margin-right: 50px;
+    justify-content: space-around;
+    align-content: space-around; */
+  }
+  .app{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 150px;
+    height: 40px;
+    position: relative;
+    left: 700px;
+    background-color: white;
+    display: flex;
+  }
+  
+  .apps{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 150px;
+    height: 40px;
+    position: relative;
+    left: 700px;
+    background-color: white;
+    display: flex;
+    margin-left: 50px;
+  }
+  .store p{
+    color: blue;
+    width: 8rem;
+    position: relative;
+    bottom: 20px;
+  }
+  .copy{
+    text-align: center;
+    color: #1F39E0;
+  }

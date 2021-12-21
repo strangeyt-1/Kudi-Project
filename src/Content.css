@@ -1,0 +1,40 @@
+.Content{
+    background-image:linear-gradient(to right, #022457,#1858DA);
+    height: 630px;
+    
+    
+}
+.omo{
+    padding-top: 120px;
+    padding-left: 50px;
+    color: white;
+    padding-bottom: 30px;
+}
+.profile{
+    display: inline-flex;
+}
+
+.basket{
+    display: inline-flex;
+}
+.text p{
+    font: Lato;
+}
+.omo button{
+       height: 40px;
+       width: 120px;
+       border-radius: 10px;
+       background-color: #F29A02;
+       border-style: none;
+       margin-top: 20px;
+}
+.womanpic{
+    margin-left: 500px;
+    position: relative;
+    bottom: 350px;
+}
+.womanpic img{
+    width: 500px;
+    margin-left: 200px;
+
+}

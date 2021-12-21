@@ -1,0 +1,36 @@
+.section2{
+    background-image:linear-gradient(to bottom,#021E53, #022759, #032C5D, #1E65FF) ;
+    height: 1400px;
+}
+.body{
+    color: white;
+    margin-left: 550px;
+    padding-top: 50px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 30px;
+    color: black;
+    margin-left: -500px;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.grid1{
+    background-color:white;
+    border-radius: 10px;
+    width: 250px;
+    height: 350px;
+    
+}
+.grid1 button{
+    width: 220px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #1E65FF;
+    color: white;
+    border-style: none;
+    margin-top: 20px;
+}

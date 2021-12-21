@@ -1,0 +1,39 @@
+.what{
+    background-color: #1E65FF;
+    text-align: center;
+    color: white;
+    margin-top: 45px;
+    padding-bottom: 30px;
+    height: 450px;
+  }
+  .say{
+    position: relative;
+    top: 60px;
+  }
+  .mo{
+    display: flex;
+    justify-content: space-around;
+    width: 50px;
+    margin-left: 650px;
+  }
+  .no{
+    border: 1px solid #FFFFFF;
+    opacity: 1;
+    border-radius: 30px;
+    width: 5px;
+    height: 5px;
+    background-color: white;
+  }
+  .in{
+    border: 1px solid #FFFFFF;
+    opacity: 1;
+    border-radius: 30px;
+    width: 5px;
+    height: 5px;
+  }
+.fas{
+    width: 200px;
+    height: 100px;
+    padding-top: 50px;
+}
+ 

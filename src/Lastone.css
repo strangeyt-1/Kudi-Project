@@ -1,0 +1,42 @@
+.over{
+    background-color: #022457;
+    height: 290px;
+  }
+  .ove{
+    color: white;
+    display: flex;
+    position: relative;
+    bottom: 20px;
+  }
+  .ove h1{
+    margin-left: 5%;
+  }
+  .ove p{
+    margin-left: 1%;
+    position: relative;
+    top: 20px;
+  }
+  .allots{
+    position: relative;
+    top: 30px;
+    right: 80px;
+  }
+  .address{
+    display: flex;
+    justify-content: space-around;
+    width: 500pt;
+  }
+  .soy{
+    margin-bottom: 10px;
+    background-color: #F29A02;
+  }
+  .the{
+    top: 5001px;
+    left: 731px;
+    width: 168px;
+    height: 110px;
+  }
+.address hr{
+    border: 1px;
+    border-color: #707070;
+}

@@ -1,0 +1,27 @@
+.our{
+    text-align: center;
+  }
+  .pic4{
+    width: 500px;
+  }
+  .join{
+    display: flex;
+    margin-top: 90px;
+  }
+  .com{
+    margin-left: 100px;
+  }
+  .online{
+    display: flex;
+  }
+  .join img{
+      width: 400px;
+      margin-bottom: 90px;
+  }
+  .overall{
+      margin-left: 100px;
+      padding-top: 100px;
+  }
+  .text{
+      padding-right: 40px;
+  }
